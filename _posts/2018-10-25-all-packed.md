@@ -10,14 +10,14 @@ I am **so ready** to leave now. I used most of the fall break to refresh and cat
 
 I have gotten myself a small appartment near the university, but actually it does not really matter as the city is not so big.
 
-### Where are these Azores and what is the place you will teach
+### Where are these Azores
 Well, the Azores is nine Portuguese islands in the Atlantic sea. This picture might give you an idea: 
 
-<img src="/KasperAtAzores/img/posts/AzoresWhere.jpg" width="75%"/>
+<img src="/KasperAtAzores/img/posts/AzoresWhere.jpg" width="100%"/>
 
 The islands are somewhat spread out, more than 100 km from the main island of São Miguel to the others further west.
 
-<img src="/KasperAtAzores/img/posts/AzoresMap.jpg" width="75%"/>
+<img src="/KasperAtAzores/img/posts/AzoresMap.jpg" width="100%"/>
 
 On the map you might be able to see the city named Ponta Delgada. That is where I will be staying. 
 
@@ -25,4 +25,3 @@ There are around 250.000 people living on the islands. About half of them lives 
 
 The climate seems to be wet, and I expect rain about half the days I am there. Temperatures seems to be between 10 and 20, with little difference beween night and day.
 
-I expect to make a different blog on my excursions on the island, and reserve this blog mostly for the work related parts.
