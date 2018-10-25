@@ -13,11 +13,11 @@ I have gotten myself a small appartment near the university, but actually it doe
 ### Where are these Azores and what is the place you will teach
 Well, the Azores is nine Portuguese islands in the Atlantic sea. This picture might give you an idea: 
 
-![](../img/posts/AzoresWhere.jpg)
+![](/img/posts/AzoresWhere.jpg)
 
 The islands are somewhat spread out, more than 100 km from the main island of São Miguel to the others further west.
 
-![](../img/posts/AzoresMap.jpg)
+![](/img/posts/AzoresMap.jpg)
 
 On the map you might be able to see the city named Ponta Delgada. That is where I will be staying. 
 
